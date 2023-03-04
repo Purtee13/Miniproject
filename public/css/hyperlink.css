@@ -1,0 +1,61 @@
+A:hover
+{
+    COLOR: red;
+    FONT-FAMILY: verdana, Arial, Helvetica, san-serif;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: red;
+    FONT-FAMILY: verdana, Arial, Helvetica, san-serif;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    FONT-FAMILY: verdana, Arial, Helvetica, san-serif;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold
+}
+A:unknown
+{
+    COLOR: #cccccc;
+    FONT-FAMILY: Verdana, Arial;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none
+}
+A
+{
+    COLOR: #000000;
+    FONT-FAMILY: verdana, Arial, Helvetica, san-serif;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+    TEXT-TRANSFORM: none
+}
+.Button {
+    font-family: Verdana;
+	background-color: #000000;
+	border-top: 4px;
+	border-bottom: 1px;
+	border-left: 1px;
+	border-right: 1px;
+	border: 1px;
+	border-color: #ffffff;
+	border-style: solid;
+	color: #ffffff;
+}
+body {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #3F2E12;
+	background-color: #FFFFFF;
+	margin: 0;
+	background: #FFFFFF;
+}
+
+
